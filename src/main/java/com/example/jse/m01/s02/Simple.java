@@ -13,7 +13,7 @@ package com.example.jse.m01.s02;
 public class Simple {
     public static void main(String[] args) {
         // output a string to console
-        System.out.print("Hello, ");
+        System.out.print("Ciao, ");
 
         // a different input argument leads to a different output
         if (args.length == 1) {
